@@ -1,6 +1,7 @@
 Olá Mundo  👋
 
 Me chamo pedro lucas, sou residente do Crato, interior do ceara, Amo a área de desenvolvimento desde a adolescência, quando achava que se eu soube-se programar eu saberia hackear!  Comecei estudando sozinho com vídeos no youtube, stackoverflow, e alguns livros, desenvolvi pequenos projetos em python, em 2018 fiz o curso técnico em informática onde descobrir minha paixão por robótica e competições de programação, alguns dos módulos do meu curso eram desenvolvimento em Java script e Mysql.
+
 Já desenvolvi alguns projetos onde um dos mais importante foi um aplicativo de gerenciamento de problemas em empresas, que me rendeu primeiro lugar no programa de startup do Senai.
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
