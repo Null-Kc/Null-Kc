@@ -1,4 +1,19 @@
-Olá Mundo  👋
+<h2>Olá Mundo  👋</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedro-lucas-macedo-de-moraes-b5458b191/" target="_blank">
+    <img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100004840867554" target="_blank">
+    <img height="32px" src="https://wesleypribeiro.github.io/img/facebook.png" />
+  </a>
+  <a href="https://www.instagram.com/lucas.macedoo_/" target="_blank">
+    <img height="32px" src="https://wesleypribeiro.github.io/img/instagram.png" />
+  </a>
+  <a href="mailto:Pedrmorae@gmail.com" target="_blank">
+    <img height="32px" src="https://wesleypribeiro.github.io/img/email.png" />
+  </a>
+</p>
 
 Me chamo pedro lucas, sou residente do Crato, interior do ceara, Amo a área de desenvolvimento desde a adolescência, quando achava que se eu soube-se programar eu saberia hackear!  Comecei estudando sozinho com vídeos no youtube, stackoverflow, e alguns livros, desenvolvi pequenos projetos em python, em 2018 fiz o curso técnico em informática onde descobrir minha paixão por robótica e competições de programação, alguns dos módulos do meu curso eram desenvolvimento em Java script e Mysql.
 
@@ -32,7 +47,7 @@ Já desenvolvi alguns projetos onde um dos mais importante foi um aplicativo de 
 </p>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=PedroLucas-M-m&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-M-m&layout=compact&show_icons=true&theme=radical)](https://github.com/wesleypribeiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-M-m&layout=compact&show_icons=true&theme=radical)](https://github.com/PedroLucas-M-m/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/k1r4pl) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedro-lucas-macedo-de-moraes-b5458b191/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucas.macedoo_/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100004840867554)
