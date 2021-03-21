@@ -1,7 +1,6 @@
 <h2>Olá Mundo  👋</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pedro-lucas-macedo-de-moraes-b5458b191/" target="_blank">
     <img height="32px" src="https://wesleypribeiro.github.io/img/linkedin.png" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100004840867554" target="_blank">
@@ -48,3 +47,6 @@ Já desenvolvi alguns projetos onde um dos mais importante foi um aplicativo de 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=PedroLucas-M-m&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-M-m&layout=compact&show_icons=true&theme=radical)](https://github.com/PedroLucas-M-m/github-readme-stats)
+
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="pedro-lucas-macedo-de-moraes"><a class="LI-simple-link" href='https://br.linkedin.com/in/pedro-lucas-macedo-de-moraes?trk=profile-badge'>Pedro Lucas Macedo de Moraes</a></div>
