@@ -48,4 +48,5 @@ Já desenvolvi alguns projetos onde um dos mais importantes foi um aplicativo vo
 </p>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=PedroLucas-M-m&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-M-m&layout=compact&show_icons=true&theme=radical)](https://github.com/PedroLucas-M-m/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
