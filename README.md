@@ -14,10 +14,9 @@
     <img height="32px" src="https://wesleypribeiro.github.io/img/email.png" />
   </a>
 </p>
+Me chamo Pedro Lucas, sou residente do Crato, interior do ceara, amo a área de desenvolvimento desde a adolescência, quando achava que se eu soube-se programar eu saberia hackear! Comecei estudando sozinho com vídeos no youtube, stackoverflow, e alguns livros, desenvolvi pequenos projetos em python, em 2018 fiz o curso técnico em informática onde descobrir minha paixão por robótica e competições de programação, alguns módulos do meu curso, era desenvolvimento em Javascript e Mysql.
 
-Me chamo pedro lucas, sou residente do Crato, interior do ceara, Amo a área de desenvolvimento desde a adolescência, quando achava que se eu soube-se programar eu saberia hackear!  Comecei estudando sozinho com vídeos no youtube, stackoverflow, e alguns livros, desenvolvi pequenos projetos em python, em 2018 fiz o curso técnico em informática onde descobrir minha paixão por robótica e competições de programação, alguns dos módulos do meu curso eram desenvolvimento em Java script e Mysql.
-
-Já desenvolvi alguns projetos onde um dos mais importante foi um aplicativo voltado para o educaçao, o Aplicativo ~Camilo voltado para o ensino da matematica para jovens do ensino medio que esta em fase de Publicaçao.
+Já desenvolvi alguns projetos onde um dos mais importantes foi um aplicativo voltado para o educaçao, o Aplicativo ~Camilo voltado para o ensino da matematica para jovens do ensino medio que está em fase de Publicaçao.
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
