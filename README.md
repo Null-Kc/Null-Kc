@@ -47,6 +47,9 @@ Já desenvolvi alguns projetos onde um dos mais importantes foi um aplicativo vo
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059324-7db43680-8473-11eb-928c-e3a7a92c4fd8.png" alt="Node" />
 </p>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=PedroLucas-M-m&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-M-m)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLucas-M-m&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroLucas-M-m&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-M-m)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
