@@ -15,7 +15,7 @@
   </a>
 </p>
 Me chamo Pedro Lucas, sou residente do Crato, interior do ceara, amo a área de desenvolvimento desde a adolescência, quando achava que se eu soube-se programar eu saberia hackear! Comecei estudando sozinho com vídeos no youtube, stackoverflow, e alguns livros, desenvolvi pequenos projetos em python, em 2018 fiz o curso técnico em informática onde descobrir minha paixão por robótica e competições de programação, alguns módulos do meu curso, era desenvolvimento em Javascript e Mysql.
-
+<br/>
 
 Já desenvolvi alguns projetos onde um dos mais importantes foi um aplicativo voltado para o educaçao, o Aplicativo ~Camilo voltado para o ensino da matematica para jovens do ensino medio que está em fase de Publicaçao.
 
@@ -26,7 +26,7 @@ Já desenvolvi alguns projetos onde um dos mais importantes foi um aplicativo vo
 <ul align="left">
 📱Tenho um grande interesse em 𝘿𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙞𝙢𝙚𝙣𝙩𝙤 𝙈𝙤𝙗𝙞𝙡𝙚.
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
+<br/>
     
 🎮Video-games são uma paixão (embora hoje em dia não tenho mais o mesmo tempo de antes para jogar)
 
