@@ -51,6 +51,6 @@ Já desenvolvi alguns projetos onde um dos mais importantes foi um aplicativo vo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-M-m&layout=compact&theme=radical)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroLucas-M-m&theme=radical)
 
 
