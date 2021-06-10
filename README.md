@@ -46,6 +46,9 @@
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059324-7db43680-8473-11eb-928c-e3a7a92c4fd8.png" alt="Node" />
 </p>
 
+<div> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=PedroLucas-M-m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-M-m&layout=compact&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+    
+</div> 
