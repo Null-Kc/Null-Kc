@@ -26,7 +26,7 @@ Já desenvolvi alguns projetos onde um dos mais importante foi um aplicativo vol
 <ul align="left">
 📱Tenho um grande interesse em 𝘿𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙞𝙢𝙚𝙣𝙩𝙤 𝙈𝙤𝙗𝙞𝙡𝙚.
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
+<br/>  
   
 🎮Video-games são uma paixão (embora hoje em dia não tenho mais o mesmo tempo de antes para jogar)
 
