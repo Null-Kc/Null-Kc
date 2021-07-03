@@ -48,5 +48,6 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api/?username=PedroLucas-M-m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-M-m&layout=compact&bg_color=151515&title_color=fff&text_color=9f9f9f)
-[!wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?u?username=PedroLucas-M-m)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroLucas-M-m)](https://github.com/anuraghazra/github-readme-stats)
+
 
