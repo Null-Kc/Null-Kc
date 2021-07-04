@@ -39,7 +39,7 @@
 
 <b>Minhas habilidades:</b>
 <p align="left">
-<img height="32px" src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="HTML5" />
+<img height="32px" src="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-thumbnail.png" alt="HTML5" />
     <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059142-e26e9180-8471-11eb-9801-d6cbd405001b.png" alt="CSS3" />
 <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111058883-41330b80-8470-11eb-925e-2840cc98a48a.png" alt="Javascript" />
