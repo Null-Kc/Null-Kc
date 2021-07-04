@@ -15,11 +15,9 @@
   </a>
 </p>
 
-<p>Me chamo Pedro Lucas, sou residente do Crato, interior do ceara, amo a área de desenvolvimento desde a adolescência, quando achava que se eu soube-se programar eu saberia hackear! Comecei estudando sozinho com vídeos no youtube, stackoverflow, e alguns livros, desenvolvi pequenos projetos em python, em 2018 fiz o curso técnico em informática onde descobrir minha paixão por robótica e competições de programação, alguns módulos do meu curso, era desenvolvimento em Javascript e Mysql.</p>
+<p>Eu me chamo Erdos, sou residente em Juazeiro do Norte, interior do Ceará</p>
 
-<p>Já desenvolvi alguns projetos onde um dos mais importantes foi um aplicativo voltado para o educaçao, o Aplicativo ~Camilo voltado para o ensino da matematica para jovens do ensino medio que está em fase de Publicaçao.</p>
-
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.com%2Fgif%2Fliquid-handling-lego-robot-Z49y6J&psig=AOvVaw3dKoOSuTf40hu5VguGpPTG&ust=1625512333937000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCKiivLyPyvECFQAAAAAdAAAAABAq" />
 
 <b>Pontos de destaque sobre mim:</b>
 
