@@ -40,6 +40,7 @@
 <b>Minhas habilidades:</b>
 <p align="left">
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059115-bf43e200-8471-11eb-8ec7-f65c11f035dc.png" alt="HTML5" />
+<img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059142-e26e9180-8471-11eb-9801-d6cbd405001b.png" alt="CSS3" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111058883-41330b80-8470-11eb-925e-2840cc98a48a.png" alt="Javascript" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111058928-940cc300-8470-11eb-88fa-9d5b0b6b506f.png" alt="React" />
