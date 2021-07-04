@@ -40,11 +40,13 @@
 <b>Minhas habilidades:</b>
 <p align="left">
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059115-bf43e200-8471-11eb-8ec7-f65c11f035dc.png" alt="HTML5" />
+    <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059142-e26e9180-8471-11eb-9801-d6cbd405001b.png" alt="CSS3" />
 <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" />
-<img height="32px" src="https://user-images.githubusercontent.com/60102340/111059142-e26e9180-8471-11eb-9801-d6cbd405001b.png" alt="CSS3" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111058883-41330b80-8470-11eb-925e-2840cc98a48a.png" alt="Javascript" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111058928-940cc300-8470-11eb-88fa-9d5b0b6b506f.png" alt="React" />
 <img height="32px" src="https://user-images.githubusercontent.com/60102340/111059324-7db43680-8473-11eb-928c-e3a7a92c4fd8.png" alt="Node" />
+<img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgre" />
+<img height="32px" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="Mysql"/>
 </p>
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api/?username=PedroLucas-M-m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
