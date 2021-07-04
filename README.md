@@ -17,7 +17,7 @@
 
 <p>Eu me chamo Erdos, sou residente em Juazeiro do Norte, interior do Ceará</p>
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.com%2Fgif%2Fliquid-handling-lego-robot-Z49y6J&psig=AOvVaw3dKoOSuTf40hu5VguGpPTG&ust=1625512333937000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCKiivLyPyvECFQAAAAAdAAAAABAq" />
+<img align="right" src="https://thumbs.gfycat.com/AggressivePossibleCockatiel-size_restricted.gif" />
 
 <b>Pontos de destaque sobre mim:</b>
 
