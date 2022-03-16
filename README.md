@@ -15,9 +15,7 @@
   </a>
 </p>
 
-<p>Me chamo Pedro Lucas, sou residente do Crato, interior do ceara, amo a área de desenvolvimento desde a adolescência, quando achava que se eu soube-se programar eu saberia hackear! Comecei estudando sozinho com vídeos no youtube, stackoverflow, e alguns livros, desenvolvi pequenos projetos em python, em 2018 fiz o curso técnico em informática onde descobrir minha paixão por robótica e competições de programação, alguns módulos do meu curso, era desenvolvimento em Javascript e Mysql.</p>
-
-<p>Já desenvolvi alguns projetos onde um dos mais importantes foi um aplicativo voltado para o educaçao, o Aplicativo ~Camilo voltado para o ensino da matematica para jovens do ensino medio que está em fase de Publicaçao.</p>
+<p>Olá me chamo Pedro Lucas Macedo, tenho 19 anos, sou estudante de engenharia da computação na UFPB, atualmente morando em João pessoa, amo a área de desenvolvimento desde a adolescência, quando achava que se eu soube-se programar eu saberia hackear! Comecei estudando sozinho com vídeos no Youtube, StackOverflow, e alguns livros, desenvolvi pequenos projetos em Python, em 2018 fiz o curso técnico em informática onde descobrir minha paixão por robótica e competições de programação, alguns dos módulos do meu curso eram desenvolvimento em Javascript e Mysql. Mas tenho também um bom conhecimento em Python, React.js e React-Native, atualmente trabalho no desenvolvimento de E-mails, e de algumas aplicações em Pyhon e React.js na Point Media.</p>
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
