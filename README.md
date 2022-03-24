@@ -28,9 +28,7 @@
     
 <p>🎮Video-games são uma paixão (embora hoje em dia não tenho mais o mesmo tempo de antes para jogar)</p>
 
-
 <p>📖Amo ler notícias e livros que me edificam (embora hoje em dia não tenho mais o mesmo tempo de antes para ler)</p>
-
 
 <p>💭Gosto de passar tempo livre apenas parado pensando, sim, PENSANDO! Fico refletindo e mirabolando situações que talvez nem aconteçam (ou aconteçam!)</p>
 </ul>
