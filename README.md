@@ -49,5 +49,4 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api/?username=PedroLucas-M-m&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas-M-m&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff)
-![Wakatime Dados](https://github-readme-stats.vercel.app/api/wakatime?username=PedroLucas&layout=compac&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&%20v%20=%202)
 
